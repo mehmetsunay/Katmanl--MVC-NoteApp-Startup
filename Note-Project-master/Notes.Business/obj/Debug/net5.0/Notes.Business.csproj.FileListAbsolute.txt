@@ -1,0 +1,34 @@
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\bin\Debug\net5.0\Notes.Business.deps.json
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\bin\Debug\net5.0\Notes.Business.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\bin\Debug\net5.0\Notes.Business.pdb
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\Notes.Business.csproj.AssemblyReference.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\Notes.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\Notes.Business.AssemblyInfoInputs.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\Notes.Business.AssemblyInfo.cs
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\Notes.Business.csproj.CoreCompileInputs.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\Notes.Business.csproj.CopyComplete
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\Notes.Business.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\refint\Notes.Business.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\Notes.Business.pdb
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\obj\Debug\net5.0\ref\Notes.Business.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\bin\Debug\net5.0\Notes.DataAccess.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\bin\Debug\net5.0\Notes.Entities.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\bin\Debug\net5.0\Notes.DataAccess.pdb
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Business\bin\Debug\net5.0\Notes.Entities.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\bin\Debug\net5.0\Notes.Business.deps.json
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\bin\Debug\net5.0\Notes.Business.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\bin\Debug\net5.0\Notes.Business.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\bin\Debug\net5.0\Notes.DataAccess.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\bin\Debug\net5.0\Notes.Entities.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\bin\Debug\net5.0\Notes.DataAccess.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\bin\Debug\net5.0\Notes.Entities.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\Notes.Business.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\Notes.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\Notes.Business.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\Notes.Business.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\Notes.Business.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\Notes.Business.csproj.CopyComplete
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\Notes.Business.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\refint\Notes.Business.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\Notes.Business.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Business\obj\Debug\net5.0\ref\Notes.Business.dll

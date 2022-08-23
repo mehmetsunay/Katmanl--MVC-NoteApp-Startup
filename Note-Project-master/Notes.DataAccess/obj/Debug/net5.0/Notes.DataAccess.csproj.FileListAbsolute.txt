@@ -1,0 +1,36 @@
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.deps.json
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.runtimeconfig.json
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.runtimeconfig.dev.json
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.pdb
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\bin\Debug\net5.0\Notes.Entities.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\bin\Debug\net5.0\Notes.Entities.pdb
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.AssemblyInfo.cs
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.csproj.CopyComplete
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\refint\Notes.DataAccess.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.pdb
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.genruntimeconfig.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.DataAccess\obj\Debug\net5.0\ref\Notes.DataAccess.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.deps.json
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.runtimeconfig.json
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\bin\Debug\net5.0\Notes.DataAccess.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\bin\Debug\net5.0\Notes.Entities.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\bin\Debug\net5.0\Notes.Entities.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.csproj.CopyComplete
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\refint\Notes.DataAccess.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\Notes.DataAccess.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.DataAccess\obj\Debug\net5.0\ref\Notes.DataAccess.dll
